@@ -10,7 +10,7 @@ package-mode = false
 python = "^3.10"
 pyrofork = "^2.3.21.post3"
 tgcrypto-pyrofork = "^1.2.6"
-uvloop = "^0.19.0"
+uvloop = "^0.20.0"
 meval = "^2.5"
 python-dotenv = "^1.0.1"
 motor = {extras = ["srv"], version = "^3.4.0"}
