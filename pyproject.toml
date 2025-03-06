@@ -13,7 +13,7 @@ tgcrypto-pyrofork = "^1.2.6"
 uvloop = "^0.19.0"
 meval = "^2.5"
 python-dotenv = "^1.0.1"
-motor = {extras = ["srv"], version = "^3.4.0"}
+motor = {extras = ["srv"], version = "^3.7.0"}
 
 
 [build-system]
